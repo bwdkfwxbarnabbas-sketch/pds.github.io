@@ -1,22 +1,12 @@
-# Peerstream landing page
+# Peerstream Landing Page
 
-A responsive static landing page for Peerstream, using the supplied logo and Google Drive download link.
-
-## Preview locally
-Open `index.html` in a browser. Keep the `assets` folder beside it.
+Responsive static landing page for GitHub Pages.
 
 ## Before publishing
-- Confirm the app name and all feature descriptions are accurate.
-- Confirm the one-time price is still ₦50,000.
-- Confirm the Google Drive file is shared so intended customers can access it.
-- Add support/contact details if you want customers to reach you.
-- Add system requirements and installation instructions if available.
+1. Open `index.html`.
+2. Replace both `https://drive.google.com/` placeholder links with the real Peerstream download or checkout URL.
+3. Review the feature descriptions and pricing to ensure they accurately describe the product.
+4. Commit `index.html` to the root of your GitHub Pages repository.
 
-## Publish with GitHub Pages
-1. Upload `index.html` and the `assets/` folder to the root of a GitHub repository.
-2. Open repository **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select branch `main` and folder `/(root)`, then save.
-5. Wait for the deployment and open the URL shown in the Pages settings.
-
-This is a static site; no build step or server is required.
+The explainer video is embedded from https://youtu.be/VpoWARhJzHc.
+This page displays the ₦50,000 one-time price but does not process payments or unlock paid access.
